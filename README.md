@@ -22,5 +22,12 @@ Aquí encontrará una selección de mis proyectos más destacados.
     MySQL: Gestiona el sistema de inicio de sesión y los cursos favoritos de los usuarios.
     MongoDB: Almacena los cursos disponibles y los próximos lanzamientos.
     En esta primera versión, los clientes ya están registrados en la base de datos, pueden iniciar sesión, guardar sus cursos favoritos y visualizarlos en su área personal.
-    Tecnologías utilizadas: MySQL, MongoDB, Express, React, Node.js.
+    Tecnologías utilizadas: MySQL, MongoDB, Express, React, Node.js, CSS.
     Estado: Proyecto en desarrollo.
+
+Proyecto de diseño web: 
+    https://github.com/Natfer84/web-personal.git
+    Se presenta la biografía de una persona elegida, en este caso a Yayoi Kusama, una artista japonesa.  
+    En este trabajo se enfoca en la maquetación. 
+    Tecnologías utilizadas: HTML y CSS.
+
