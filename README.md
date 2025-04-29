@@ -2,7 +2,7 @@
 Aquí encontrará una selección de mis proyectos más destacados.
 
 
-1. 🎃 Quiz de Halloween
+# 🎃 Quiz de Halloween
    📌 https://github.com/Natfer84/quiz_halloween.git
    
 Este proyecto marcó el inicio de mi camino en el desarrollo de aplicaciones web. Quiz de Halloween es un minijuego interactivo de preguntas y respuestas, ideal para pasar un buen rato mientras se aprende.
@@ -18,11 +18,13 @@ HTML5
 CSS3
 JavaScript (JS)
 
+----
+
 
    
 
 
-2. 🛒 Tienda Pokémon
+# 🛒 Tienda Pokémon
    📌 https://github.com/Natfer84/tienda_pokemon.git
 
 Este fue mi segundo proyecto dentro del curso de desarrollo de aplicaciones web, y no podía faltar una temática tan icónica como Pokémon. Tienda Pokémon es una aplicación web dinámica que simula una tienda online interactiva, pensada para los fans de la saga.
@@ -37,10 +39,12 @@ Diseño limpio y responsivo para una experiencia amigable.
 React (componentes, hooks y routing)
 CSS (estilos personalizados y diseño adaptativo)
 
+-----
 
 
 
-3. 🎨 Proyecto Final: Tienda MERN de Creatividad — Creanunate 
+
+# 🎨 Proyecto Final: Tienda MERN de Creatividad — Creanunate 
    📌 (https://github.com/Natfer84/creanunate.git)
     
 
@@ -63,9 +67,11 @@ Bases de datos: MySQL, MongoDB
 
 🚧 Estado del proyecto: En desarrollo (versión inicial funcional con usuarios registrados en la base de datos)
 
+----
 
 
-🖌️ Proyecto de Diseño Web: Biografía de Yayoi Kusama
+
+# 🖌️ Proyecto de Diseño Web: Biografía de Yayoi Kusama
 📌 https://github.com/Natfer84/web-personal.git
 
 Este proyecto se centra en el diseño y maquetación de una página web biográfica, dedicada a la reconocida artista japonesa Yayoi Kusama, célebre por sus instalaciones inmersivas y uso del arte psicodélico.
