@@ -5,18 +5,19 @@ Aquí encontrará una selección de mis proyectos más destacados.
 1. 🎃 Quiz de Halloween
    📌 https://github.com/Natfer84/quiz_halloween.git
    
-   Este proyecto marcó el inicio de mi camino en el desarrollo de aplicaciones web. Quiz de Halloween es un minijuego interactivo de preguntas y respuestas, ideal para pasar un buen rato mientras se aprende.
+Este proyecto marcó el inicio de mi camino en el desarrollo de aplicaciones web. Quiz de Halloween es un minijuego interactivo de preguntas y respuestas, ideal para pasar un buen rato mientras se aprende.
    
-   🧠 ¿Cómo funciona?
-   El juego presenta 10 preguntas aleatorias, obtenidas dinámicamente desde una API REST.
-   Cada pregunta ofrece cuatro opciones de respuesta, pero solo una es correcta.
-   Por cada respuesta correcta, el jugador suma un punto al contador.
-   Al final del quiz, se muestra la puntuación total obtenida.
+🧠 ¿Cómo funciona?
+El juego presenta 10 preguntas aleatorias, obtenidas dinámicamente desde una API REST.
+Cada pregunta ofrece cuatro opciones de respuesta, pero solo una es correcta.
+Por cada respuesta correcta, el jugador suma un punto al contador.
+Al final del quiz, se muestra la puntuación total obtenida.
 
-   🛠️ Tecnologías utilizadas:
-   HTML5
-   CSS3
-   JavaScript (JS)
+🛠️ Tecnologías utilizadas:
+HTML5
+CSS3
+JavaScript (JS)
+
 
    
 
@@ -24,7 +25,7 @@ Aquí encontrará una selección de mis proyectos más destacados.
 2. 🛒 Tienda Pokémon
    📌 https://github.com/Natfer84/tienda_pokemon.git
 
-   Este fue mi segundo proyecto dentro del curso de desarrollo de aplicaciones web, y no podía faltar una temática tan icónica como Pokémon. Tienda Pokémon es una aplicación web dinámica que simula una tienda online interactiva, pensada para los fans de la saga.
+Este fue mi segundo proyecto dentro del curso de desarrollo de aplicaciones web, y no podía faltar una temática tan icónica como Pokémon. Tienda Pokémon es una aplicación web dinámica que simula una tienda online interactiva, pensada para los fans de la saga.
 
 👾 Características principales:
 Navegación entre distintas secciones de la tienda.
