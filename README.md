@@ -3,7 +3,7 @@ Aquí encontrará una selección de mis proyectos más destacados.
 
 
 🎨 Proyecto Final: Tienda MERN de Creatividad — Creanunate
-📌 (https://github.com/Natfer84/creanunate.git)
+ 📌 https://github.com/Natfer84/creanunate.git
 
 Creanunate es una tienda en línea desarrollada con el stack MERN, diseñada para ofrecer cursos creativos a usuarios interesados en aprender nuevas habilidades artísticas y manuales. Cada curso incluye un video explicativo, fomentando una experiencia de aprendizaje práctica y visual.
 
